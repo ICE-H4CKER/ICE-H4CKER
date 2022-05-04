@@ -7,4 +7,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+•TONYE☆.....;NICE+TO+MEET+YOU....;MESSAGE+ME+ON+WHATSAPP....;(+2349075815126)....;!&size=25"> 
 
-<p> <img src= 
+ # DOWNLOAD TERMUX APK 
+
+Click on [HERE](https://f-droid.org/repo/com.termux_117.apk), To Download It.
